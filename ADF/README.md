@@ -6,8 +6,8 @@
 
 ## Pipeline Run Status
 
-[View Pipeline Run Status](ADF/Screenshots/Pipeline_Run_Status.png)
+![Pipeline Run Status](Screenshots/Pipeline_Run_Status.png)
 
 ## Description
 
-This pipeline ingests source data into ADLS Gen2, triggers Databricks transformations, and loads curated data into Synapse Analytics.
+This pipeline automates the ingestion of data from external APIs into Azure Data Lake Storage Gen2 using Azure Data Factory. The raw data is stored in the Bronze layer, from where Azure Databricks performs data cleansing, transformation, and enrichment before promoting the data to downstream layers for analytics and reporting.
