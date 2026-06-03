@@ -2,7 +2,7 @@
 
 ## Pipeline Architecture
 
-[![Pipeline Architecture](ADF/Screenshots/Pipeline_Architecture.png)](ADF/Screenshots/Pipeline_Architecture.png)
+![Pipeline Architecture](Screenshots/Pipeline_Architecture.png)
 
 ## Pipeline Run Status
 
