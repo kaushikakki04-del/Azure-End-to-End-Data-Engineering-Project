@@ -39,8 +39,6 @@ This pipeline automates the ingestion of data from external APIs into Azure Data
 - GitHub
 - JSON
 - CSV
-- Azure Blob File System (ABFS)
-- ARM Templates
 
 ## Pipeline Components
 
